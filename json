@@ -1,0 +1,17 @@
+{
+  "name": "lavoor-backend",
+  "version": "1.0.0",
+  "description": "Lavoor demo backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "dayjs": "^1.11.11",
+    "validator": "^13.11.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
